@@ -6,4 +6,10 @@ Updated as projects are finished.
 
 2020-07-10
 Added 'First Python Code' lab notebook
-Added second notebook
+Also added second notebook
+
+2020-07-11
+Added notebooks for Module 2
+
+2020-07-12
+Added notebooks for Module 2
